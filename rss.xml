@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[Nanodiamond Grading Technology]]></title>
         <description><![CDATA[Nanodiamond Grading Technology]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nanodiamond-grading-technology/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 09:27:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 May 2016 09:27:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nanodiamond-grading-technology/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Nanotech Inc. offer synthetic polycrystalline diamond powders produced by the explosion method. We can offer a wide range of sizes depend on customer’s application or demand. Having several Doctors of physics and chemistry in our team, we examine, check and grade every carat of diamond powder before shipping it to our customers. Our Polydiamond has all the advantages of polycrystalline diamonds ‐ less scratches and cracks, longer period of usage, self‐sharpening properties, fast and fine lapping and polishing. And we are always ready to consult, to share our knowledge and experience to make your application more efficient.</p>]]></description>
-            <link>undefinednanotech-inc-offer-synthetic-polycrystalline-diamond-powder/index.html</link>
+            <link>https://thegrid.ai/nanodiamond-grading-technology/nanotech-inc-offer-synthetic-polycrystalline-diamond-powder/index.html</link>
             <guid isPermaLink="false">b1e19a04-2a6a-4d5a-b177-0c2f30db8096</guid>
+            <pubDate>Sun, 08 May 2016 09:26:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5908d7a3-2239-4bbe-a146-2dc24b4de62f.jpg">]]></description>
+            <link>https://thegrid.ai/nanodiamond-grading-technology/explosion-synthesis-converting-carbon-to-polycrystalline-dia/index.html</link>
+            <guid isPermaLink="false">fca38479-35e8-4627-b1c8-e544c99d254e</guid>
             <pubDate>Sun, 08 May 2016 09:26:59 GMT</pubDate>
         </item>
     </channel>
