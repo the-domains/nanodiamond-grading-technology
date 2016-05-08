@@ -1,29 +1,41 @@
-name: Nanotech Inc.
-favicon: null
-layout_spectrum: 0.05499
-typography_spectrum: 0.48137000342831016
 title: Nanotidamond Grading Technology
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.05203397385776043
+  brandStrength: 0.3077626393642277
+  rhythmicContrast: 0.4058125882875174
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.30776263936422765
   lightness: 0.9463786149863154
-  saturation: 0.05203397385776043
-  rhythmicContrast: 0.40581258828751743
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Nanotech Inc.
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.4813700034283102
+layout_spectrum: 0.7106383
