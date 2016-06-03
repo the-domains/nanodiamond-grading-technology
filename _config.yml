@@ -1,5 +1,8 @@
-title: Nanotidamond Grading Technology
-purpose: []
+name: Nanotech Inc.
+favicon: null
+layout_spectrum: 0.7106383
+typography_spectrum: 0.4813700034283102
+title: Nanodiamond Grading Technology
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.05203397385776043
-  brandStrength: 0.3077626393642277
-  rhythmicContrast: 0.4058125882875174
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+  brandStrength: 0.3077626393642277
   lightness: 0.9463786149863154
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Nanotech Inc.
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4813700034283102
-layout_spectrum: 0.7106383
+  saturation: 0.05203397385776043
+  rhythmicContrast: 0.4058125882875174
+purpose: []
