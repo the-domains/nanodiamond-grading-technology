@@ -1,8 +1,34 @@
-name: Nanotech Inc.
-favicon: null
-layout_spectrum: 0.7106383
 typography_spectrum: 0.98731
-title: Nanodiamond Grading Technology
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3077626393642277
+  lightness: 0.9463786149863154
+  saturation: 0.05203397385776043
+  rhythmicContrast: 0.4058125882875174
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7106383
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: David Hsu
+  email: david@abba.tw
+  url: ''
+name: Nanotech Inc.
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.3077626393642277
-  lightness: 0.9463786149863154
-  saturation: 0.05203397385776043
-  rhythmicContrast: 0.4058125882875174
+title: Nanodiamond Grading Technology
 purpose: []
